@@ -1,1 +1,3 @@
-alpine
+nextcloud:latest
+mysql:latest
+redis:6
