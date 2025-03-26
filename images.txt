@@ -1,2 +1,2 @@
-mysql:8.0.41
-mysql:8.0
+rockylinux:8.9
+rockylinux:8.10
