@@ -1,2 +1,1 @@
-rockylinux:8.9
-rockylinux:8.10
+qliplatform/qubic-client:latest
