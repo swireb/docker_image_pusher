@@ -38,14 +38,17 @@ ALIYUN_REGISTRY_USER          #用户名
 #修改配置文件
 vim /etc/docker/daemon.json
 {
-  "registry-mirrors": ["https://crpi-5djp3l2ebt5lyhar.cn-hangzhou.personal.cr.aliyuncs.com"]
+  "registry-mirrors": [
+    "https://crpi-5djp3l2ebt5lyhar.cn-hangzhou.personal.cr.aliyuncs.com",
+    "https://registry.docker-cn.com"
+  ]
 }
 
 #重启服务
 systemctl restart docker
 ```
 
-- 拉取容器镜像只要在前面添加用户名即可
+- 拉取容器镜像只要在前面添加命名空间即可
 
 ```shell
 docker pull jackywn/nginx:latest
