@@ -1,1 +1,2 @@
-qliplatform/qubic-client:latest
+mysql:8.0.41
+redis:6
