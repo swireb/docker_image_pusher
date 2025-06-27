@@ -1,1 +1,2 @@
 openlistteam/openlist:latest
+openlistteam/openlist:beta
