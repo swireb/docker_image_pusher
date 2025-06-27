@@ -1,2 +1,1 @@
-mysql:8.0.41
-redis:6
+openlistteam/openlist:latest
