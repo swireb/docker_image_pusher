@@ -5,5 +5,5 @@ langgenius/dify-plugin-daemon:0.1.2-local
 postgres:15-alpine
 langgenius/dify-sandbox:0.2.12
 redis:6-alpine
-ubuntu/squid:atest
+ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
