@@ -1,2 +1,3 @@
-openlistteam/openlist:latest
-openlistteam/openlist:beta
+n8nio/n8n
+postgres:16
+redis:6-alpine
