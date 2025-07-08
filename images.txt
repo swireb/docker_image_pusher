@@ -1,1 +1,1 @@
-ghcr.io/wg-easy/wg-easy:latest
+rockylinux/rockylinux:9
