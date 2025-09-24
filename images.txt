@@ -1,1 +1,1 @@
-rockylinux/rockylinux:9
+openlistteam/openlist:latest
