@@ -1,1 +1,2 @@
-ncarlier/webhookd:latest
+ mysql:8.0.45
+ mysql:8.0.33
