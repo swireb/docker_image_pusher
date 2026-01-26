@@ -1,2 +1,26 @@
- mysql:8.0.45
- mysql:8.0.33
+onlyoffice/docspace-backup-background:latest
+onlyoffice/docspace-clear-events:latest
+onlyoffice/docspace-backup:latest
+onlyoffice/docspace-files:latest
+onlyoffice/docspace-files-services:latest
+onlyoffice/docspace-notify:latest
+onlyoffice/docspace-people-server:latest
+onlyoffice/docspace-studio:latest
+onlyoffice/docspace-studio-services:latest
+onlyoffice/docspace-api:latest
+onlyoffice/docspace-api-system:latest
+onlyoffice/docspace-management:latest
+onlyoffice/docspace-login:latest
+onlyoffice/docspace-pwa:latest
+onlyoffice/docspace-doceditor:latest
+onlyoffice/docspace-doceditor-services:latest
+onlyoffice/docspace-socket:latest
+onlyoffice/docspace-migration-runner:latest
+onlyoffice/docspace-telegram:latest
+onlyoffice/docspace-healthchecks:latest
+onlyoffice/docspace-identity-authorization:latest
+onlyoffice/docspace-identity-api:latest
+onlyoffice/docspace-dotnet:latest
+onlyoffice/docspace-java:latest
+onlyoffice/docspace-node:latest
+onlyoffice/documentserver:latest
