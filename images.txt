@@ -1,5 +1,5 @@
 nextcloud:latest
-nginx-proxy-manager:latest
+c21/nginx-proxy-manager:latest
 webhookd:latest
 mariadb:11.8.6
 mariadb:11.4.10
