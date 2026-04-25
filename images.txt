@@ -1,5 +1,4 @@
 nextcloud:latest
-openlist:latest
 nginx-proxy-manager:latest
 webhookd:latest
 mariadb:11.8.6
