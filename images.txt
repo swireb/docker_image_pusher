@@ -1,1 +1,1 @@
-3proxy/3proxy:latest
+vaultwarden/server:latest
