@@ -1,1 +1,3 @@
-vaultwarden/server:latest
+postgres:15
+keygen/api:latest
+redis:7
