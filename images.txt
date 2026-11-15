@@ -1,6 +1,1 @@
 penpotapp/frontend:2.19.1
-penpotapp/backend:2.19.1
-penpotapp/admin-console:2.19.1
-penpotapp/exporter:2.19.1
-postgres:15.20-bookworm
-valkey/valkey:8.1.11
